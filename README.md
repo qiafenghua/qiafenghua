@@ -1,40 +1,15 @@
-# 你好，我是沈欢 (Shen Huan) <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+<h1 align="center">
+  👋 一个积极向上的程序员
+</h1>
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## 我是一名 Java 后端及 AI 应用开发工程师
-
-- [cite_start]👨‍💻 目前专注于 **数据治理管控平台** 与 **AI 智能中心** 的建设 [cite: 58, 66]。
-- [cite_start]📚 正在深入研究 **Spring AI**、**Agent 工作流** 以及 大语言模型集成（**RAG、Text2SQL**）[cite: 24, 70]。
-- 💪🏼 未来目标：构建更具自主性的 AI Agent，并持续探索 Web3 与区块链技术。
-- [cite_start]⚡ 趣味事实：我热衷于阅读开源项目源码，并从中汲取灵感来优化现有系统 [cite: 132]。
+<p align="center">
+  <strong>Java后端开发 | 全栈开发 | AI 应用开发 | Web3 探索者</strong>
+</p>
 
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-### AI 与 数据项目实践 🤖
-
-- [cite_start]**智能调度路由**：实现了基于用户问题的智能路由，自动分发至不同的 AI 智能体 [cite: 89]。
-- [cite_start]**Text2SQL 落地**：开发了 SQL 准确率达 80% 的应用，并支持查询结果的数据可视化 [cite: 70]。
-- [cite_start]**RAG 知识库**：支持 Word、PDF、MD 及超链接解析，实现了回答结果的可解释性 [cite: 70]。
-- [cite_start]**高并发优化**：基于 `Semaphore` 与 `Redis` 分布式锁实现了任务的并行采集与排队入库 [cite: 76]。
-- [cite_start]**源码级改造**：通过改造 Spring AI 源码，引入 Caffeine 缓存与自定义日志 Advisor，提升系统观测性 [cite: 71]。
-
----
-
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=shenhuan&repo=shenhuan&countColorcountColor&countColor=%237B1E7B"/>
-
-### 联系方式 📝
-
-[<img align="left" alt="Email" width="40px" src="https://i.pinimg.com/originals/1d/46/dd/1d46dda5b99cf1a91a1e2377fb948b36.gif" />][email]
-[<img align="left" alt="LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]
-
-<br />
-
----
-
-### 技术栈与工具 🛠 
+<div align="center">
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
@@ -49,30 +24,24 @@
 ![Cursor](http://img.shields.io/badge/-Cursor-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
 
-<br/>
+</div>
+
+
+### 🚀 关于我
+- 🌐 **Web3 爱好者**：关注区块链技术，热衷研究 **Solana 链上数据监控** 与 **预测市场（Polymarket）** 自动化交易。
+- ⚡ **Vibe Coding 践行者**：热衷于通过阅读开源项目源码来打破技术边界，持续优化系统架构。
 
 ---
-
-<br/>
 
  <h2 align="center"> GitHub 统计数据 📈 </h2>
-  
+
  <div align="center"> 
      <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shenhuan&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=qiafenghua&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
     </a>
     <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shenhuan&theme=react&line_height=40&hide=css"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiafenghua&theme=react&line_height=40&hide=css"/>
     </a>
 </div>
-  
+
 <br/>
-
----
-
- ### ⭐️ 来自 [shenhuan](https://github.com/shenhuan) ### 
- 
----
-
-[email]: mailto:2578228379@qq.com
-[linkedin]: https://www.linkedin.com/in/shenhuan
