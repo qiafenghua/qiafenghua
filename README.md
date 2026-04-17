@@ -11,7 +11,8 @@
 
 <div align="center">
 
-![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=ffffff)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=ffffff)
@@ -21,13 +22,16 @@
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=ffffff)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![Cursor](http://img.shields.io/badge/-Cursor-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor)
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
+[![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#)
+[![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
 
 </div>
 
 
 ### 🚀 关于我
+- 🤖 **AI Native 工程师**：坚持 **AI First** 的开发范式。
 - 🌐 **Web3 爱好者**：关注区块链技术，热衷研究 **Solana 链上数据监控** 与 **预测市场（Polymarket）** 自动化交易。
 - ⚡ **Vibe Coding 践行者**：热衷于通过阅读开源项目源码来打破技术边界，持续优化系统架构。
 
